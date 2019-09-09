@@ -1,11 +1,13 @@
 # laveuse-de-fut
 Programme de base pour piloter une machine DIY de lavage de fûts de bière
+
+
 ////////////////////////////////
 //     BRASSERIE DU BARIL     //
 //            BREST           //
 //  MACHINE A LAVER LES FUTS  //
 ////////////////////////////////
-/*
+
 Ce programme est conçu pour piloter une machine à la ver les fûts de bière DIY.
 Elle fait fonctionner :
 - 9 relais activant 9 électrovannes (sur les broches numériques 2 à 10).
@@ -46,4 +48,4 @@ Elle fait fonctionner :
 Inspiré du projet https://github.com/vieuxsinge/kegwasher
 
 Un programme réalisé par Antony Le Goïc-Auffret sous licence GPL
- */
+
